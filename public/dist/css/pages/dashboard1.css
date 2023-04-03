@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700);
+*{
+  margin: 0;
+  padding:0;
+}
+body{
+  border: 0;
+  box-sizing: border-box;
+}
+.cmin-height {
+  height: 105px; }
+  
+
+  /*Colocando cor nas duas cards da classe principal*/
+#tempo{
+  background-color:#07253F;
+}
+#seg{
+  background-color:rgb(5, 148, 5);
+}
+#sidebarnav a{
+  color:#07253F;
+}
+#sidebarnav i{
+  color:rgb(5, 148, 5);
+} 
+#risco{
+  color: rgb(5, 148, 5);
+}
+.topbar{
+  border:0;
+  border-radius: 0 0;
+  height:1rem;
+}
+#pesq{
+  margin-top: 2rem;
+}
+.navbar{
+  height:7rem;
+  border:0;
+  border-radius: 0 0;
+}
+#nome{
+  margin-left: -4rem;
+}
+.error{ color: red;}
+#bt1{
+  border:0;
+  border-radius: 0 0;
+  width: 10rem;
+  background-color: rgb(5, 148, 5);
+}
+footer{
+  height:1rem;
+}
+#but{
+  margin-top: 1.3rem;
+}
